@@ -26,7 +26,7 @@ Travel Tour uses a number of open source projects to work properly:
 
 Dillinger requires [Node.js](https://nodejs.org/) v16+ to run.
 
-If you don't know your version, you can check it with the command in the node -v terminal.
+If you don't know your version, you can check it with the command in the [node -v] terminal.
 
 In order to install the project locally, you will need:
 
