@@ -7,7 +7,10 @@
 Travel Tour - this is an application for finding tours and places to travel.
 
 - Single-page application;
-- Responsive and fully adaptive
+- Responsive and fully adaptive;
+
+## Preview
+<a href="https://webfre.github.io/travel-tour/" target="_blank">Follow the link 👁</a>
 
 ## Tech
 
