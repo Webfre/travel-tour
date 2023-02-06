@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Travel Tour
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif" height="500" width="1000" alt="TravelTour" />
 
-## Available Scripts
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
-In the project directory, you can run:
+Travel Tour - this is an application for finding tours and places to travel.
 
-### `npm start`
+- Single-page application;
+- Responsive and fully adaptive
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tech
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Travel Tour uses a number of open source projects to work properly:
 
-### `npm test`
+- [React JS] - React is an open source JavaScript library for creating external user interfaces.
+- [React Router Dom] - this is a node module that is designed for routing in web applications. It allows engineers to create routes for a single-page React application.
+- [React Icons] - Reactions is a small library that helps you add icons (from different icon libraries) to your React applications.
+- [Reset CSS] - A reset style sheet (or CSS reset) is a set of CSS rules used to clean up the formatting of HTML browser elements by default, eliminating potential inconsistencies between different browsers.
+- [SASS] - It is the most developed and stable professional-level CSS extension.
+- [ESlint] - ESLint is a tool that helps you analyze JavaScript code, find syntax errors and automatically correct them, write neat code in a uniform style according to certain rules.
+- [Prettier] - Prettier is a code formatting tool that aims to use hard—coded rules for the design of programs. It formats the code automatically.
+- [AOS] - Animation when scrolling a page with the AOS js library.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+Dillinger requires [Node.js](https://nodejs.org/) v16+ to run.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+If you don't know your version, you can check it with the command in the node -v terminal.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+In order to install the project locally, you will need:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```sh
+git remote add origin https://github.com/Webfre/TravelTour.git
+git branch -M main
+git push -u origin main
+```
 
-### `npm run eject`
+Start the project:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```sh
+cd travel-tour-app
+npm start or yarn start
+```
