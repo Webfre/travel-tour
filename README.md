@@ -24,16 +24,14 @@ Travel Tour uses a number of open source projects to work properly:
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v16+ to run.
+Travel Tour requires [Node.js](https://nodejs.org/) v16+ to run.
 
 If you don't know your version, you can check it with the command in the [node -v] terminal.
 
 In order to install the project locally, you will need:
 
 ```sh
-git remote add origin https://github.com/Webfre/TravelTour.git
-git branch -M main
-git push -u origin main
+git clone https://github.com/Webfre/travel-tour.git
 ```
 
 Start the project:
