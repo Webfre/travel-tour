@@ -1,6 +1,6 @@
 # Travel Tour
 
-<img src="https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif" height="500" width="1000" alt="TravelTour" />
+![Image alt](https://github.com/Webfre/travel-tour/blob/main/src/assets/Image/tour/travelusa.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
