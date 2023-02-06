@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/travel-tour/static/css/main.2b671925.css",
+    "main.js": "/travel-tour/static/js/main.f4c4982f.js",
+    "static/media/promo.mp4": "/travel-tour/static/media/promo.8c156aebac76eafedb36.mp4",
+    "static/media/anza-borrego-pustynya-yuzhnaya.jpg": "/travel-tour/static/media/anza-borrego-pustynya-yuzhnaya.4240dcf37614e01ff406.jpg",
+    "static/media/the-strip-las-vegas-nevada-las-vegas-nevada-ssha.jpg": "/travel-tour/static/media/the-strip-las-vegas-nevada-las-vegas-nevada-ssha.38dab17392219c9638b1.jpg",
+    "static/media/puerto-rico-caribbean-sea-puerto-riko-karibskoe-more-more-ok.jpg": "/travel-tour/static/media/puerto-rico-caribbean-sea-puerto-riko-karibskoe-more-more-ok.62e6a76683439ebd5ddd.jpg",
+    "static/media/epcot-orlando-florida-ssha-park-prud-doma-derevia-nebo-veche.jpg": "/travel-tour/static/media/epcot-orlando-florida-ssha-park-prud-doma-derevia-nebo-veche.5b0cb10635e459534413.jpg",
+    "static/media/rio-grande-gorge-new-mexico-usa.jpg": "/travel-tour/static/media/rio-grande-gorge-new-mexico-usa.25c181bcc943a24bc27e.jpg",
+    "static/media/soedinennye-shtaty-gava-yi-3415.jpg": "/travel-tour/static/media/soedinennye-shtaty-gava-yi-3415.026b7939f3f8026c7058.jpg",
+    "index.html": "/travel-tour/index.html",
+    "main.2b671925.css.map": "/travel-tour/static/css/main.2b671925.css.map",
+    "main.f4c4982f.js.map": "/travel-tour/static/js/main.f4c4982f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b671925.css",
+    "static/js/main.f4c4982f.js"
+  ]
+}
