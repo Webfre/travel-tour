@@ -31,7 +31,7 @@ If you don't know your version, you can check it with the command in the [node -
 In order to install the project locally, you will need:
 
 ```sh
-[git remote add origin https://github.com/Webfre/TravelTour.git](https://github.com/Webfre/travel-tour.git)
+https://github.com/Webfre/travel-tour.git
 ```
 
 Start the project:
