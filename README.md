@@ -40,6 +40,7 @@ git clone https://github.com/Webfre/travel-tour.git
 Start the project:
 
 ```sh
+npm install
 cd travel-tour-app
 npm start or yarn start
 ```
